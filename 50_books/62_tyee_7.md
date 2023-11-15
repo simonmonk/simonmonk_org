@@ -35,3 +35,14 @@ This thoroughly revised seventh edition covers:
 - Transducers and sensors
 - Acoustics and audio
 - Antennas for RF communications
+
+
+[Quiz Section 1](/assets/downloads/quiz_section_1.pdf) 
+
+[Quiz Section 2](/assets/downloads/quiz_section_2.pdf)
+
+[Quiz Section 3](/assets/downloads/quiz_section_3.pdf)
+
+[Quiz Section 4](/assets/downloads/quiz_section_4.pdf)
+
+[Final Quiz](/assets/downloads/quiz_final.pdf)
