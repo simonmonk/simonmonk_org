@@ -1,6 +1,6 @@
 ---
 layout: "page"
-title: Books (Current Editions)
+title: Books
 permalink: /books
 ---
 
