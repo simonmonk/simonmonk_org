@@ -10,6 +10,13 @@ These are my books. Each book has a page which you can access buy clicking on th
 
 **Latest!**
 
+# [Programming the Pico: Learn Coding and Electronics with the Raspberry Pi Pico (second edition)](/coding)
+
+![cover](/assets/images/cover_pico_2_sm.jpg)
+
+
+---
+
 # [Coding: the 21st Century's Most Valuable Skill](/coding)
 
 ![cover](/assets/images/cover_coding_sm.jpg)
